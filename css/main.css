@@ -121,6 +121,10 @@
   height: 25rem;
   position: relative;
 }
+.otro{
+  display: flex;
+  margin: 3rem;
+}
 .hero__bg {
   position: absolute;
   min-width: 100%;
@@ -566,6 +570,8 @@ padding: 2rem;
 }
 .btn__base1{
   margin-right: 3.5rem;
+  margin-left: 3rem;
+  border-style: none;
 }
 .btn__base1:hover {
   opacity: 0.6;
